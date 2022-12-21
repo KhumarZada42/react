@@ -1,0 +1,16 @@
+.theArt {
+    background-image: url("https://dlcdnwebimgs.asus.com/gain/FDFFE426-0A29-40D5-8E26-C838EB26CA8F");
+    background-repeat: no-repeat;
+    background-size: contain;
+    max-width: 100%;
+    height: 70vh;
+
+    .theArtTXT {
+        color: white;
+        width: 40%;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+
+    }
+}
